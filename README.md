@@ -5,6 +5,7 @@ Look In the Branches Tab For the List.
 (Or look below)
 
 1. Hawaii: Part II (WIP)
-2. Chonny Jash (INCOMP)
-3. Will Wood and the Tapeworms (INCOMP)
-4. Tally Hall (INCOMP)
+1.5 Hawaii: Part II: Part II (INCOMP)
+3. Chonny Jash (INCOMP)
+4. Will Wood and the Tapeworms (INCOMP)
+5. Tally Hall (INCOMP)
